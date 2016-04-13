@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: It initializes a empty repository. It copies the git related files for the directory.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Staging area, as the name suggest is an interim area where we can keep the file safe.
