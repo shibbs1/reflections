@@ -1,0 +1,2 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: If I want to give some files to other collaborators, without giving my unfinished local work. 
