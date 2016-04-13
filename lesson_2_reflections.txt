@@ -14,4 +14,7 @@ Q: How do the diagrams help you visualize the branch structure?
 A: It gives the overall picture of the all the checkins of the branch
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-A: A master branch with the updated code of two branches. Diagram makes it easy to understand and less error prone. 
+A: A master branch with the updated code of two branches. Diagram makes it easy to understand and less error prone.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: gits aut merging are easy and powerful, but error prone. manual is always better if any conflicts arise. 
