@@ -3,3 +3,15 @@ A: It initializes a empty repository. It copies the git related files for the di
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: Staging area, as the name suggest is an interim area where we can keep the file safe.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: Just add one page only at a time.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: In adding experimental features.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: It gives the overall picture of the all the checkins of the branch
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: A master branch with the updated code of two branches. Diagram makes it easy to understand and less error prone. 
